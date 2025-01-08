@@ -1,4 +1,4 @@
-# Stage 2: Introduction to Artificial Intelligence 📘
+# Stage 2: Introduction to Artificial Intelligence
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)  
 Welcome to Stage 2 of the Artificial Intelligence Program! This repository contains lecture slides and lab exercises that will help you learn the basics of Artificial Intelligence and prepare you for the final exam on the 5th day.
